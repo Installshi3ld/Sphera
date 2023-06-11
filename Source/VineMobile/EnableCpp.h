@@ -7,9 +7,9 @@
 /**
  * 
  */
-class VINEMOBILE_API enablecppClass
+class VINEMOBILE_API EnableCpp
 {
 public:
-	enablecppClass();
-	~enablecppClass();
+	EnableCpp();
+	~EnableCpp();
 };
